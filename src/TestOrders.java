@@ -20,5 +20,24 @@ public class TestOrders {
         System.out.printf("Name: %s\n", order1.name);
         System.out.printf("Total: %s\n", order1.total);
         System.out.printf("Ready: %s\n", order1.ready);
+
+
+        // TODO Add item1 to order2's item list and increment the order's total.
+
+
+        // TODO order3 ordered a cappuccino. Add the cappuccino to their order list and to their tab.
+
+
+        // TODO order4 added a latte. Update accordingly.
+
+
+        // TODO Cindhuri’s order is now ready. Update her status.
+
+
+        // TODO Sam ordered more drinks - 2 lattes. Update their order as well.
+
+
+        // TODO Jimmy’s order is now ready. Update his status.
+
     }
 }
