@@ -4,8 +4,17 @@ public class TestOrders {
 
         // Menu items
 
-        // Order variables -- order1, order2 etc.
+        //
+        //TODO Create 4 item variables of type Item and instantiate each as an Item object. Name them item1, item2 etc.
         Order order1 = new Order();
+
+        // TODO Set the price and the name for each -- "mocha", "latte", "drip coffee" and "cappuccino" (price is up to you!)
+
+        // TODO Create 4 order variables of type Order and instantiate each as an Order object. Name them order1, order2 etc.
+
+        // TODO Set each order's name -- "Cindhuri", "Jimmy", "Noah", "Sam".
+
+        // TODO Print the order1 variable to the console to see what happens.
 
         // Application Simulations
         // Use this example code to test various orders' updates
