@@ -65,6 +65,6 @@ public class TestOrders {
         order4.total += item2.price * 2;
 
         // TODO Jimmy’s order is now ready. Update his status.
-        order2.ready = true
+        order2.ready = true;
     }
 }
