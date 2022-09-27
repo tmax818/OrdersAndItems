@@ -6,7 +6,6 @@ public class TestOrders {
 
         //
         //TODO Create 4 item variables of type Item and instantiate each as an Item object. Name them item1, item2 etc.
-        Order order1 = new Order();
 
         // TODO Set the price and the name for each -- "mocha", "latte", "drip coffee" and "cappuccino" (price is up to you!)
 
